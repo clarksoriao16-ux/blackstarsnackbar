@@ -59,7 +59,7 @@ if (!defined('CONFIG_LOADED')) {
         $domain = $_SERVER['HTTP_HOST'];
 
         if ($domain === "blackstarsnackbar-1.onrender.com") {
-            define("SITEURL", https://blackstarsnackbar-1.onrender.com);
+            define("SITEURL", "https://blackstarsnackbar-1.onrender.com");
         }
         else if ($domain === "https://blackstarsnackbar.onrender.com") {
             define("SITEURL", "https://blackstarsnackbar.onrender.com");
