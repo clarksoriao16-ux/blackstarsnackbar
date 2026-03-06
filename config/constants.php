@@ -61,7 +61,7 @@ if (!defined('CONFIG_LOADED')) {
         if ($domain === "blackstarsnackbar-1.onrender.com") {
             define("SITEURL", "https://blackstarsnackbar-1.onrender.com/");
         }
-        else if ($domain === "https://blackstarsnackbar.onrender.com") {
+        else if ($domain === "blackstarsnackbar.onrender.com") {
             define("SITEURL", "https://blackstarsnackbar.onrender.com/");
         }
         else {
